@@ -28,3 +28,76 @@ margin: 0;
 }
 
 
+.cont2{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.box1
+{
+    width: 500px;
+font-size: 20px;
+margin-left: 100px;
+margin-top: -200px;
+
+}
+.box1 h1{
+    padding-top: 200px;
+    font-size: 50px;
+}
+.box1 p
+{
+    width: 420px;
+    font-size: 15px;
+    color: rgb(136, 133, 133);
+}
+.btn2
+{
+    width: 120px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+.boximg
+{
+    width: 600px;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.b1{
+    width: 150px;
+    height: 500px;
+    background-color: aqua;
+    background-image: url(/meritt-thomas-u-Hb93V6IWI-unsplash\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b2{
+    width: 150px;
+    height: 500px;
+    background-color: aqua;
+    margin-top: 50px;
+    background-image: url(/meritt-thomas-u-Hb93V6IWI-unsplash\ 2.png);
+background-repeat: no-repeat;
+    background-size: cover;
+}
+.b3{
+    width: 150px;
+    height: 500px;
+    background-color: aqua;
+background-image: url(/meritt-thomas-u-Hb93V6IWI-unsplash\ 3.png);
+background-repeat: no-repeat;
+    background-size: cover;
+}
