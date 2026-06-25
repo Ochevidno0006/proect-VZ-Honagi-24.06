@@ -511,3 +511,50 @@ margin-top: 15px;
 {
  margin-top: 90px;   
 }
+
+.footer{
+    width:100%;
+    height:300px;
+    background:#0d1b52;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    color:white;
+}
+
+.box1{
+    width:250px;
+}
+
+.box1 h1{
+    margin-bottom:20px;
+}
+
+.box1 p{
+    color:#bdbdbd;
+    line-height:25px;
+}
+
+.box2 p{
+    color:#bdbdbd;
+    line-height:35px;
+}
+.box3 p{
+    color:#bdbdbd;
+    line-height:35px;
+}
+.box4 p{
+    color:#bdbdbd;
+    line-height:35px;
+}
+
+.icons{
+    margin-top:25px;
+    display:flex;
+    gap:20px;
+}
+
+.ic1{
+    width:30px;
+    height:30px;
+}
