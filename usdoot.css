@@ -337,3 +337,145 @@ background-color: rgb(255, 255, 255);
 }
 
 
+.cont9
+{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+    display: flex;
+}
+.boox1
+{
+    width: 400px;
+    margin-left: 50px;
+    padding: 30px;
+}
+.bt1{
+   width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.boox1 p
+{
+    color: rgb(124, 119, 119);
+}
+
+.cont10
+{
+    width: 600px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+margin-left: 70px;
+}
+.s1
+{
+    width: 600px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 1px 1px 1px 2px rgb(218, 212, 212);
+}
+.s2
+{
+    width: 600px;
+    height: 160px;
+    background-color: rgb(255, 255, 255);
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+     box-shadow: 1px 1px 1px 2px rgb(218, 212, 212);
+     
+}
+.s3
+{
+    width: 600px;
+height: 80px;
+background-color: rgb(255, 253, 253);    
+ display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+     box-shadow: 1px 1px 1px 2px rgb(218, 212, 212);
+
+}
+
+.ss1
+{
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 40px;
+}
+.ss1 img
+
+{
+    width: 25px;
+    height: 25px;
+margin-left: 12px;
+margin-top: 15px;
+
+}
+
+.ss2
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 102, 64);
+    border-radius: 40px;
+    
+}
+.ss2 img
+
+{
+    width: 25px;
+    height: 25px;
+margin-left: 12px;
+margin-top: 13px;
+
+
+}
+
+
+.s2 h1{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+
+.s2 p{
+    width: 400px;
+    font-size: 20px;
+    margin-left: 10px;
+    color: rgb(174, 175, 177);
+}
+
+.ss3
+{
+    width: 50px;
+    height: 50px;
+    background-color: antiquewhite;
+    border-radius: 40px;
+}
+.ss3 img
+
+{
+    width: 25px;
+    height: 25px;
+margin-left: 12px;
+margin-top: 15px;
+
+}
+.s3 h1
+{
+    margin-left: -30px;
+}
